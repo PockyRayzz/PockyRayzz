@@ -3,8 +3,6 @@ Hi, I'm PockyRay
  - Security Researcher
  - RedTeam
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=PockyRayzz&show_icons=true&theme=radical&hide=contribs,prs&count_private=true&include_all_commits=true">
-
 #### Backend
 
 ![Python](https://img.shields.io/badge/-Python-3A77A9?style=flat-square&logo=python&logoColor=white&link=https://github.com/PockyRayzz)
@@ -28,3 +26,5 @@ Hi, I'm PockyRay
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&link=https://github.com/PockyRayzz)
 ![PyCharm](https://img.shields.io/badge/-PyCharm%20IDEA-000000?style=flat-square&logo=pycharm&logoColor=white&link=https://github.com/PockyRayzz)
 ![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=sentry&logoColor=white&link=https://github.com/PockyRayzz)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=PockyRayzz&show_icons=true&theme=radical&hide=contribs,prs&count_private=true&include_all_commits=true">
