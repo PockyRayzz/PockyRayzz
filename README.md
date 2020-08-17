@@ -24,7 +24,7 @@ Hi, I'm PockyRay
 
 ![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-4285F4?style=flat-square&logo=google-chrome&logoColor=white&link=https://github.com/PockyRayzz)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&link=https://github.com/PockyRayzz)
-![PyCharm](https://img.shields.io/badge/-PyCharm%20IDEA-000000?style=flat-square&logo=pycharm&logoColor=white&link=https://github.com/PockyRayzz)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white&link=https://github.com/PockyRayzz)
 ![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=sentry&logoColor=white&link=https://github.com/PockyRayzz)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=PockyRayzz&show_icons=true&theme=radical&hide=contribs,prs&count_private=true&include_all_commits=true">
